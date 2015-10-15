@@ -1,0 +1,49 @@
+body{margin:100px}
+
+h3{
+	font-family: Courier;
+	margin-left: 10px
+	}
+
+img{
+	width:200px;
+	height:200px;
+	margin:15px;
+	opacity: .5
+}
+
+hr{ 
+  background-color: black;
+  height: 5px;
+  width: 100px;
+  display: inline-block;
+  margin-top: -10px;
+  margin-left:10px;
+}
+
+h5{
+	font-family: Courier;
+	color:white;
+	position:absolute;
+	z-index:1;
+	right:25px;
+	bottom:5px;
+}
+
+
+span{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+.negro{
+	width: 200px;
+	height: 200px;
+	display: inline;
+	position: absolute;
+	background-color:black;
+	display:inline;
+}
+
+
